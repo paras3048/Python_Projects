@@ -1,0 +1,146 @@
+[
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+            "function",
+            "def",
+            "func",
+            "define"
+        ],
+        "answer": "def",
+        "category": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which data structure stores key-value pairs in Python?",
+        "options": [
+            "List",
+            "Tuple",
+            "Dictionary",
+            "Set"
+        ],
+        "answer": "Dictionary",
+        "category": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What does len() return when used on a list?",
+        "options": [
+            "The largest value",
+            "The number of elements",
+            "The last element",
+            "The memory size"
+        ],
+        "answer": "The number of elements",
+        "category": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which library is commonly used for data manipulation in Python?",
+        "options": [
+            "Pandas",
+            "Tkinter",
+            "Flask",
+            "Requests"
+        ],
+        "answer": "Pandas",
+        "category": "Data Analysis",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which Pandas function is used to group data?",
+        "options": [
+            "groupby()",
+            "combine()",
+            "cluster()",
+            "mergeby()"
+        ],
+        "answer": "groupby()",
+        "category": "Data Analysis",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which NumPy function can be used to calculate the mean?",
+        "options": [
+            "np.average()",
+            "np.mean()",
+            "np.middle()",
+            "np.avg()"
+        ],
+        "answer": "np.mean()",
+        "category": "Data Analysis",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is the time complexity of binary search on a sorted array?",
+        "options": [
+            "O(n)",
+            "O(n²)",
+            "O(log n)",
+            "O(1)"
+        ],
+        "answer": "O(log n)",
+        "category": "Algorithms",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which data structure follows the FIFO principle?",
+        "options": [
+            "Stack",
+            "Queue",
+            "Tree",
+            "Graph"
+        ],
+        "answer": "Queue",
+        "category": "Algorithms",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which data structure follows the LIFO principle?",
+        "options": [
+            "Queue",
+            "Array",
+            "Stack",
+            "Graph"
+        ],
+        "answer": "Stack",
+        "category": "Algorithms",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which algorithm is commonly used to find the shortest path in a weighted graph with non-negative edges?",
+        "options": [
+            "Bubble Sort",
+            "Dijkstra's Algorithm",
+            "Binary Search",
+            "Depth First Search"
+        ],
+        "answer": "Dijkstra's Algorithm",
+        "category": "Algorithms",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "Which keyword is used to handle exceptions in Python?",
+        "options": [
+            "catch",
+            "except",
+            "error",
+            "handle"
+        ],
+        "answer": "except",
+        "category": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is the main purpose of a Python virtual environment?",
+        "options": [
+            "Increase CPU speed",
+            "Separate project dependencies",
+            "Create databases",
+            "Compile Python code"
+        ],
+        "answer": "Separate project dependencies",
+        "category": "Python",
+        "difficulty": "Medium"
+    }
+]
